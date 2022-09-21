@@ -1,0 +1,54 @@
+.bloco{
+    color: white;
+}
+
+
+#bloco-1{
+    color: white;
+    background-color: rgb(222, 147, 9) ;
+    margin: 1vw ;
+    border: 4px solid orange;
+    width:25vw;
+    padding: 15px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bloco-2{
+    color: white;
+    background-color: rgb(47, 128, 47) ;
+    margin: 1vw;
+    border: 4px solid rgb(87, 146, 87);
+    width:25vw;
+    padding: 15px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bloco-3{
+    color: white;
+    background-color: rgb(14, 39, 14);
+    margin: 1vw;
+    border:4px dashed rgb(48, 142, 117);
+    width:25vw;
+    padding: 15px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bloco-4{
+    color: white;
+    background-color: rgb(212, 62, 62) ;
+    margin: 1vw;
+    border:4px dashed rgb(211, 117, 89);
+    width:25vw;
+    padding: 15px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+h1{
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
